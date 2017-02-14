@@ -1,6 +1,6 @@
 # Structure-Equilibrium
 
-This experiment was conducted to to explore truss structure equilibrium by writting a universal program that could solve any two dimensional (N x N) static truss by using the Method of Joints. 
+This experiment was conducted to explore truss structure equilibrium by writting a universal program that could solve any two dimensional (N x N) static truss using the Method of Joints. 
 
 Use:
 - Create a text file (see Sample Truss.txt) containing member-joint connectivity, the coordinates of each joint, the reaction forces at each joint and all of the external forces acting on the truss. Our program will prompt you for the name of the text file containing the truss information. 
